@@ -1,0 +1,8 @@
+版本:Unity 5.6.6f2
+
+UWA網址__https://lab.uwa4d.com/lab/5b6682d0d7f10a201ffbb9b4
+
+官方Github網址__https://github.com/darknessomi/Unity-SolarSystem
+
+本人Github網址__https://github.com/z1125411235/UWA_UnitySolarSystem
+
